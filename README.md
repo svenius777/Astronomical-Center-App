@@ -1,0 +1,1 @@
+To run the app simply clone the repository and run KucinaSvenApp.exe.
